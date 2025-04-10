@@ -45,11 +45,11 @@ Composer is a dependency manager for PHP, which you'll need to install before se
 
 ## Step 3: Clone the Project
 
-Clone the EventOrganizer Laravel project from GitHub to your local machine:
+Clone the TodoApp Laravel project from GitHub to your local machine:
 
 ```bash
 git clone https://github.com/MohamedKarabawy/TodoApp.git
-cd EventOrganizer
+cd TodoApp
 ```
 
 ---
