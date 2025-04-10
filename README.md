@@ -108,7 +108,7 @@ php artisan migrate
 
 ## Step 7: Seed Database with Default Data
 
-If the project includes seed data (e.g., default events, users), you can seed the database by running:
+If the project includes seed data (e.g., default categories), you can seed the database by running:
 
 ```bash
 php artisan db:seed
